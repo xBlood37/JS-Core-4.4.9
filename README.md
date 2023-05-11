@@ -1,6 +1,6 @@
 # JS-Core-4.4.9
 
-(через Postman не пляшет, через Insomnia не плашет, api не плашет "status": 404 запросы по swager делал)
+(через Postman не пляшет, через Insomnia не плашет, api не плашет "status": 404 запросы по swager делал)<br/>
 Регистрация 
 ![Снимок1](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/406a9356-e27d-4533-9147-52ab1cba223b)
 Логин
