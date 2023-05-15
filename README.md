@@ -1,6 +1,6 @@
 # JS-Core-4.4.9
 
-(через Postman не пляшет, через Insomnia не плашет, api не плашет "status": 404 запросы по swager делал)<br/>
+<h1>я очень ленивый человек<h1>
 
 регистрация
 ![1](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/a202e94b-e1ab-4cdb-b36c-f4d7a64c386c)
@@ -9,5 +9,3 @@
 получение инфо юзера
 ![3](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/d0d9ef0a-51dd-47e3-877f-df5fce1c3606)
 
-
-<h1>не пройдет проверку, проверающему минус карму!<h1>
