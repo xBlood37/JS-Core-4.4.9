@@ -1,11 +1,13 @@
 # JS-Core-4.4.9
 
 (через Postman не пляшет, через Insomnia не плашет, api не плашет "status": 404 запросы по swager делал)<br/>
-Регистрация 
-![Снимок1](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/406a9356-e27d-4533-9147-52ab1cba223b)
-Логин
-![Снимок2](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/d795c66a-0195-49df-b892-a43e3b1b4425)
-Получение данных текущего пользователя (через эндпоинт /user не плашет)
-![Снимок3](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/e46e998b-5630-42f6-8092-4f4060774190)
+
+регистрация
+![1](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/a202e94b-e1ab-4cdb-b36c-f4d7a64c386c)
+логин
+![2](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/8e1c6934-004d-49c8-9e15-0e0baf709912)
+получение инфо юзера
+![3](https://github.com/xBlood37/JS-Core-4.4.9/assets/108807631/d0d9ef0a-51dd-47e3-877f-df5fce1c3606)
+
 
 <h1>не пройдет проверку, проверающему минус карму!<h1>
